@@ -1,0 +1,16 @@
+{
+  "name": "ggg",
+  "version": "0.0.1",
+  "description": "宿命天成命中败，仙尊悔而我不悔。",
+  "main": "lib/main.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "obsidian-plugin build D:\\notemain.js",
+    "dev": "obsidian-plugin dev src/main.js"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.5",
+    "obsidian-plugin-cli": "^0.4.3",
+    "obsidian": "obsidianmd/obsidian-api"
+  }
+}
